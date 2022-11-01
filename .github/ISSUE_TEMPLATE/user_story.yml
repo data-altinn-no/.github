@@ -1,0 +1,23 @@
+name: User Story 😃
+description: Create a new user story
+labels: ["kind/user-story", "status/draft"]
+body:        
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What do you need? 
+    validations:
+      required: true
+
+  - type: textarea
+    id: additional-information
+    attributes:
+      label: Additional Information
+      description: Add more details as need like links, screenshots, etc.
+
+  - type: textarea
+    id: tasks
+    attributes:
+      label: Tasks
+      description: Add tasks to be done as part of this story.     
