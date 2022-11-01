@@ -1,7 +1,6 @@
 name: Epic 
 description: Create a new epic 
 labels: ["Epic", "status/draft"]
-projects: ["DAN public backlog"]
 body:          
   - type: textarea
     id: description
