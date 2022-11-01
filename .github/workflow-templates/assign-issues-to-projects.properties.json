@@ -1,0 +1,8 @@
+{
+    "name": "assign-issues-to-projects",
+    "description": "Automatically assign issues to DAN project",
+    "iconName": "example-icon",
+    "categories": [
+        "Go"
+    ]
+}
