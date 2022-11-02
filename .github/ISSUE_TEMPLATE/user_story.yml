@@ -1,6 +1,6 @@
 name: User Story 😃
 description: Create a new user story
-labels: ["user-story"]
+labels: ["enhancement"]
 body:        
   - type: textarea
     id: description
