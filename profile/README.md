@@ -2,4 +2,4 @@
 
 Read more on our [docs](https://docs.data.altinn.no)
 
-
+![](../media/catanddino.jpg)
